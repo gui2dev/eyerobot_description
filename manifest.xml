@@ -1,0 +1,7 @@
+<package>
+  <description brief="eyerobot_description">eyerobot_description</description>
+  <depend package="gazebo" />
+  <author email="guilhem.villemin@gmail.com">Guilhem Villemin</author>
+  <maintainer email="guilhem.villemin@gmail.com">Guilhem Villemin</maintainer>
+  <license>BSD</license>
+</package>
